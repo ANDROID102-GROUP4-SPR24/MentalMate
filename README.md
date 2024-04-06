@@ -13,7 +13,7 @@ MentalMate is your personal AI-driven mental health companion, designed to suppo
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="App Logo">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Logo.png" width="200" alt="App Logo">
   </figure>
   <br> <!-- Line break -->
   <figcaption>MentalMate</figcaption>
@@ -150,7 +150,7 @@ This wireframe includes:
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="\nImage 1">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/Wireframe%201.jpg" width="200" alt="\nImage 1">
      <br> <!-- Line break -->
     <figcaption>Wireframe 1</figcaption>
   </figure>
@@ -172,7 +172,7 @@ This wireframe will feature:
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/Wireframe%202.jpg" width="200" alt="Image 1">
      <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
@@ -192,9 +192,9 @@ This page is designed to facilitate the connection between the MentalMate app an
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/Wireframe%203.jpg" width="200" alt="Image 3">
      <br> <!-- Line break -->
-    <figcaption> Wireframe 2</figcaption>
+    <figcaption> Wireframe 3</figcaption>
   </figure>
 
 ## Resources Page Wireframe
@@ -212,9 +212,9 @@ This page is crucial for providing users with easy access to a library of mental
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/Wireframe%204.jpg" width="200" alt="Image 4">
      <br> <!-- Line break -->
-    <figcaption> Wireframe 2</figcaption>
+    <figcaption> Wireframe 4</figcaption>
   </figure>
 
 ## Emotional Intelligence Activities Page Wireframe
@@ -233,9 +233,9 @@ This page is designed to engage users in activities aimed at enhancing their emo
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/Wireframe%205.jpg" width="200" alt="Image 5">
      <br> <!-- Line break -->
-    <figcaption> Wireframe 2</figcaption>
+    <figcaption> Wireframe 5</figcaption>
   </figure>
 
 ## Support Network Page Wireframe
@@ -253,9 +253,9 @@ This page is vital for connecting users with mental health organizations and sup
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/Wireframe%206.jpg" width="200" alt="Image 6">
      <br> <!-- Line break -->
-    <figcaption> Wireframe 2</figcaption>
+    <figcaption> Wireframe 6</figcaption>
   </figure>
 
 
