@@ -10,7 +10,16 @@
 
 MentalMate is your personal AI-driven mental health companion, designed to support your mental well-being journey. It offers personalized recommendations, helps you build healthier habits, and connects you with essential mental health resources and organizations.
 
-<img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_recyclerview_GIF2.gif"   width="275px" alt=" ">
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="App Logo">
+  </figure>
+  <br> <!-- Line break -->
+  <figcaption>MentalMate</figcaption>
+</div>
+
+
 ## App Preview
 
 ## Table of Contents
@@ -142,8 +151,8 @@ This wireframe includes:
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="\nImage 1">
-    <figcaption> 
-      Wireframe 1</figcaption>
+     <br> <!-- Line break -->
+    <figcaption>Wireframe 1</figcaption>
   </figure>
 
 </div>
@@ -164,6 +173,7 @@ This wireframe will feature:
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+     <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
 
@@ -183,6 +193,7 @@ This page is designed to facilitate the connection between the MentalMate app an
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+     <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
 
@@ -202,6 +213,7 @@ This page is crucial for providing users with easy access to a library of mental
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+     <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
 
@@ -222,6 +234,7 @@ This page is designed to engage users in activities aimed at enhancing their emo
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+     <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
 
@@ -241,6 +254,7 @@ This page is vital for connecting users with mental health organizations and sup
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+     <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
 
