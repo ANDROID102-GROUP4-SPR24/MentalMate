@@ -26,6 +26,9 @@ MentalMate is your personal AI-driven mental health companion, designed to suppo
 
 - [Overview](#overview)
 - [Features](#features)
+- [Navigation](#navigation)
+- [Screen Archetypes](#screen-archetypes)
+- [Wireframes](#wireframes)
 - [Technology](#technology)
 - [Getting Started](#getting-started)
 - [Contribution](#contribution)
@@ -290,6 +293,8 @@ You may obtain a copy of the License at
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+```
+
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
