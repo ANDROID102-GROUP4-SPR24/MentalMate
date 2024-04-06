@@ -13,7 +13,7 @@ MentalMate is your personal AI-driven mental health companion, designed to suppo
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Logo.png" width="200" alt="App Logo">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Logo.png" width="500" alt="App Logo">
   </figure>
   <br> <!-- Line break -->
   <figcaption>MentalMate</figcaption>
