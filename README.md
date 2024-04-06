@@ -141,8 +141,7 @@ This wireframe includes:
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="
-      Image 1">
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="\nImage 1">
     <figcaption> Wireframe 1</figcaption>
   </figure>
 
