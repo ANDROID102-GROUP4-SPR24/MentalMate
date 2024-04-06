@@ -44,13 +44,13 @@ MentalMate leverages AI technology to provide users with personalized insights a
 
 - **User Profile**: Create a personal mental health profile to track goals and progress.
 - **AI-driven Insights**: Receive personalized mental health advice based on your input and activity.
+
+
+### Optional Features
 - **Health Sensor Integration**: Connect with smartwatches and health sensors to monitor physical indicators related to mental health.
 - **Curated Resources**: Access a library of mental health exercises, articles, and tips.
 - **Emotional Intelligence Building**: Engage in activities designed to enhance your emotional intelligence.
 - **Support Network**: Connect with mental health organizations and support groups.
-
-### Optional Features
-
 - Community forums for user interaction.
 - Notifications for daily mental health tips.
 - Gamification to encourage engagement.
