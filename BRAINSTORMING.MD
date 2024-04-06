@@ -1,5 +1,11 @@
 # Mobile App Dev - App Brainstorming
+**Status:** Completed
 
+<!--  **Reviewers:**    N/A-->
+
+**Authors:** Brian Bazurto, Christine Lekishon, Jocelyn Gao, Nursultan Zhumabaev
+
+<!--  **Tracking Bug Link:** [Detailed Information Link Here] -->
 ## Favorite Existing Apps - List
 1. Instagram
 2. TikTok
