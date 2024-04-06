@@ -42,7 +42,7 @@ To get started with developing MentalMate in Kotlin, you will need to have Andro
 
 1. Download and install Android Studio from the [official website](https://developer.android.com/studio).
 2. Open Android Studio and select "Get from Version Control" to clone the repository.
-3. Enter the repository URL: `https://github.com/yourusername/mental-mate.git`.
+3. Enter the repository URL: `https://github.com/ANDROID102-GROUP4-SPR24/MentalMate`.
 4. Once the project has been cloned, open the project directory in Android Studio.
 5. Wait for Android Studio to sync the project with Gradle and download all the necessary dependencies.
 6. To run the app, select an emulator or connect an Android device and press the Run button.
