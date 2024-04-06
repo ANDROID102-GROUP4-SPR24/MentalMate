@@ -10,6 +10,9 @@
 
 MentalMate is your personal AI-driven mental health companion, designed to support your mental well-being journey. It offers personalized recommendations, helps you build healthier habits, and connects you with essential mental health resources and organizations.
 
+<img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_recyclerview_GIF2.gif"   width="275px" alt=" ">
+## App Preview
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -134,7 +137,15 @@ This wireframe includes:
 - A footer with navigation to Insights, Resources, and Support Network pages.
 
 **Image User Profile Page Wireframe:**
-[Add picture of your hand sketched wireframe here]
+
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <figcaption> Wireframe 1</figcaption>
+  </figure>
+
+</div>
 
 ## Insights Page Wireframe
 
@@ -147,7 +158,13 @@ This wireframe will feature:
 - A footer with navigation identical to the User Profile Page for consistency.
 
 **Image Insights Page Wireframe:**
-[Add picture of your hand sketched wireframe here]
+
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <figcaption> Wireframe 2</figcaption>
+  </figure>
 
 ## Health Sensor Integration Page Wireframe
 
@@ -161,7 +178,12 @@ This page is designed to facilitate the connection between the MentalMate app an
 - A footer navigation bar, maintaining consistency with the previous pages for seamless user experience.
 
 **Image Health Sensor Integration Page Wireframe:**
-[Add picture of your hand sketched wireframe here]
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <figcaption> Wireframe 2</figcaption>
+  </figure>
 
 ## Resources Page Wireframe
 
@@ -175,7 +197,12 @@ This page is crucial for providing users with easy access to a library of mental
 - A footer with the app’s navigation bar to maintain consistency across the app.
 
 **Image Resources Page Wireframe:**
-[Add picture of your hand sketched wireframe here]
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <figcaption> Wireframe 2</figcaption>
+  </figure>
 
 ## Emotional Intelligence Activities Page Wireframe
 
@@ -190,7 +217,12 @@ This page is designed to engage users in activities aimed at enhancing their emo
 - A footer navigation bar, consistent with the rest of the app, for easy access to other features.
 
 **Image Emotional Intelligence Activities Page Wireframe:**
-[Add picture of your hand sketched wireframe here]
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <figcaption> Wireframe 2</figcaption>
+  </figure>
 
 ## Support Network Page Wireframe
 
@@ -204,9 +236,12 @@ This page is vital for connecting users with mental health organizations and sup
 - A footer navigation bar, consistent with the rest of the app, for seamless user experience.
 
 **Image Support Network Page Wireframe:**
-[Add picture of your hand sketched wireframe here]
-
-
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/wishlist_recyclerview/blob/master/wishlist_ANDROID_recyclerview_APPimage1.png" width="200" alt="Image 1">
+    <figcaption> Wireframe 2</figcaption>
+  </figure>
 
 
 ## Technology
