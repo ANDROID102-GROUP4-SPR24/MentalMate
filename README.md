@@ -300,31 +300,32 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 ## GitHub Project Board
 
-- [Add screenshot of your Project Board with three milestones visible in this section]
+The Project Board for Milestone 2 includes various issues and milestones that we've been working on. Below are the visual representations of our current project status.
 
-  ![Project Board Screenshot](URL_FOR_PROJECT_BOARD_SCREENSHOT)
+### Milestone and Issues Overview
+![Milestone and Issues Overview](link-to-milestone-screenshot.png) <!-- Replace with the actual link to your screenshot -->
 
-## Issue Cards
+### Issue Cards
+![Issue Cards](link-to-issue-cards-screenshot.png) <!-- Replace with the actual link to your screenshot -->
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone]
+### Upcoming Sprint Planning
+![Upcoming Sprint Planning](link-to-upcoming-sprint-screenshot.png) <!-- Replace with the actual link to your screenshot -->
 
-  ![Issues for Current Milestone](URL_FOR_ISSUES_CURRENT_MILESTONE_SCREENSHOT)
+## Issues Worked On This Sprint
 
-- [Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.]
+Here's a list of issues we completed in this sprint:
 
-  ![Issues for Next Sprint](URL_FOR_ISSUES_NEXT_SPRINT_SCREENSHOT)
+- Issue 1: Description or title of the issue
+- Issue 2: Description or title of the issue
+- Issue 3: Description or title of the issue
+- ...
 
-### Issues Worked on This Sprint
+## Build Progress Giphy
 
-List the issues you completed this sprint:
+Below is a giphy that showcases our current build progress for Milestone 2. This visual aid emphasizes the progression from Sprint 1 to Sprint 2, demonstrating the advancements made in the app's development.
 
-- Issue 1: Description of the issue and resolution
-- Issue 2: Description of the issue and resolution
-- ... 
+![Build Progress Giphy](link-to-build-progress-giphy.gif) <!-- Replace with the actual link to your giphy -->
 
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your GIFs are not duplicated and clearly show the change from Sprint 1 to 2.]
-
-  ![Build Progress Giphy](URL_FOR_GIPHY_BUILD_PROGRESS)
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
 
