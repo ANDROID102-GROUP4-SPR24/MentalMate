@@ -1,4 +1,11 @@
 # MentalMate
+**Status:** Completed
+
+<!--  **Reviewers:**    N/A-->
+
+**Authors:** Brian Bazurto, Christine Lekishon, Jocelyn Gao, Nursultan Zhumabaev
+
+<!--  **Tracking Bug Link:** [Detailed Information Link Here] -->
 
 MentalMate is your personal AI-driven mental health companion, designed to support your mental well-being journey. It offers personalized recommendations, helps you build healthier habits, and connects you with essential mental health resources and organizations.
 
