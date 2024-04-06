@@ -47,10 +47,17 @@ To get started with developing MentalMate in Kotlin, you will need to have Andro
 5. Wait for Android Studio to sync the project with Gradle and download all the necessary dependencies.
 6. To run the app, select an emulator or connect an Android device and press the Run button.
 
-## Contribution
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed contribution guidelines.
-
 ## License
 
-MentalMate is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+```plaintext
+Copyright [2024] [ANDROID102-GROUP4-SPR24]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
