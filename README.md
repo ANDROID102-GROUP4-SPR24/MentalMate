@@ -304,9 +304,19 @@ The Project Board for Milestone 2 includes various issues and milestones that we
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Project%20Milestones.png" width="900" alt="Project Board">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Project%20board.png" width="900" alt="Project Board">
      <br> <!-- Line break -->
     <figcaption> Project Board</figcaption>
+  </figure>
+</div>
+
+
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Project%20Milestones.png" width="900" alt="Project Milestones">
+     <br> <!-- Line break -->
+    <figcaption>Project Milestones</figcaption>
   </figure>
 </div>
 
@@ -328,9 +338,12 @@ The Project Board for Milestone 2 includes various issues and milestones that we
   - **Due by:** May 04, 2024
   - 33% complete, 2 open, 1 closed
 
+
+
 ### Issue Cards
 
-#### Issues Opened
+#### Upcoming Sprint Planning
+##### Issues Opened
 
 - Build MOCK Pages - Stretch features (Optional) #15
 - Build Insights page and API calls #14
@@ -338,7 +351,16 @@ The Project Board for Milestone 2 includes various issues and milestones that we
 - Google Slides - PART 3 - add info to project presentation #10
 - Google Slides - PART 2 - add info to project presentation #9
 
-#### Issues Completed - Issues worked on this sprint
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20open%20Issues.png" width="900" alt="Issues Opened">
+     <br> <!-- Line break -->
+    <figcaption>Issues Opened</figcaption>
+  </figure>
+</div>
+
+##### Issues Completed - Issues worked on this sprint
 
 - Build project starter code #12
 - Build app xml files and add drawable resources #11
@@ -346,6 +368,15 @@ The Project Board for Milestone 2 includes various issues and milestones that we
 - Wireframing and Product Spec #7
 - ReadME #6
 - Milestone 1 - Unit 7: Wireframing and Product Spec #1
+
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20closed%20Issues.png" width="900" alt="Issues Completed">
+     <br> <!-- Line break -->
+    <figcaption>Issues Completed</figcaption>
+  </figure>
+</div>
 
 ### Milestone and Issues Overview
 ![Milestone and Issues Overview](link-to-milestone-screenshot.png) <!-- Replace with the actual link to your screenshot -->
