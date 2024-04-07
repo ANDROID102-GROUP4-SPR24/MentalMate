@@ -295,30 +295,63 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ```
 
-
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project Board
 
 The Project Board for Milestone 2 includes various issues and milestones that we've been working on. Below are the visual representations of our current project status.
 
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20Project%20Milestones.png" width="900" alt="Project Board">
+     <br> <!-- Line break -->
+    <figcaption> Project Board</figcaption>
+  </figure>
+</div>
+
+### Milestone Overview
+
+- **Milestone 1 - Unit 7: Wireframing and Product Spec**
+  - **Status:** 🎉 DONE 🎉
+  - 100% complete, 0 open, 3 closed
+
+- **Milestone 2 - Unit 8: Build Sprint 1**
+  - **Due by:** April 20, 2024
+  - 100% complete, 0 open, 1 closed
+
+- **Milestone 3 - Unit 9: Build Sprint 2**
+  - **Due by:** April 27, 2024
+  - 25% complete, 3 open, 1 closed
+
+- **Milestone 4 - Unit 10: Build Sprint 3**
+  - **Due by:** May 04, 2024
+  - 33% complete, 2 open, 1 closed
+
+### Issue Cards
+
+#### Issues Opened
+
+- Build MOCK Pages - Stretch features (Optional) #15
+- Build Insights page and API calls #14
+- Review and build of profile page #13
+- Google Slides - PART 3 - add info to project presentation #10
+- Google Slides - PART 2 - add info to project presentation #9
+
+#### Issues Completed - Issues worked on this sprint
+
+- Build project starter code #12
+- Build app xml files and add drawable resources #11
+- Google Slides - PART 1 #8
+- Wireframing and Product Spec #7
+- ReadME #6
+- Milestone 1 - Unit 7: Wireframing and Product Spec #1
+
 ### Milestone and Issues Overview
 ![Milestone and Issues Overview](link-to-milestone-screenshot.png) <!-- Replace with the actual link to your screenshot -->
 
-### Issue Cards
-![Issue Cards](link-to-issue-cards-screenshot.png) <!-- Replace with the actual link to your screenshot -->
-
 ### Upcoming Sprint Planning
 ![Upcoming Sprint Planning](link-to-upcoming-sprint-screenshot.png) <!-- Replace with the actual link to your screenshot -->
-
-## Issues Worked On This Sprint
-
-Here's a list of issues we completed in this sprint:
-
-- Issue 1: Description or title of the issue
-- Issue 2: Description or title of the issue
-- Issue 3: Description or title of the issue
-- ...
 
 ## Build Progress Giphy
 
