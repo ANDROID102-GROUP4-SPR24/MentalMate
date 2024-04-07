@@ -310,7 +310,8 @@ The Project Board for Milestone 2 includes various issues and milestones that we
   </figure>
 </div>
 
-
+<br> <!-- Line break -->
+<br> <!-- Line break -->
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
@@ -341,9 +342,7 @@ The Project Board for Milestone 2 includes various issues and milestones that we
 
 
 ### Issue Cards
-
-#### Upcoming Sprint Planning
-##### Issues Opened
+#### Issues Opened - Upcoming Sprint Planning
 
 - Build MOCK Pages - Stretch features (Optional) #15
 - Build Insights page and API calls #14
@@ -360,7 +359,7 @@ The Project Board for Milestone 2 includes various issues and milestones that we
   </figure>
 </div>
 
-##### Issues Completed - Issues worked on this sprint
+#### Issues Completed - Issues worked on this sprint
 
 - Build project starter code #12
 - Build app xml files and add drawable resources #11
@@ -378,17 +377,57 @@ The Project Board for Milestone 2 includes various issues and milestones that we
   </figure>
 </div>
 
-### Milestone and Issues Overview
-![Milestone and Issues Overview](link-to-milestone-screenshot.png) <!-- Replace with the actual link to your screenshot -->
-
-### Upcoming Sprint Planning
-![Upcoming Sprint Planning](link-to-upcoming-sprint-screenshot.png) <!-- Replace with the actual link to your screenshot -->
 
 ## Build Progress Giphy
 
 Below is a giphy that showcases our current build progress for Milestone 2. This visual aid emphasizes the progression from Sprint 1 to Sprint 2, demonstrating the advancements made in the app's development.
 
-![Build Progress Giphy](link-to-build-progress-giphy.gif) <!-- Replace with the actual link to your giphy -->
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate_Project_Board_GIF.gif" width="900" alt="Build progress for Milestone 2">
+     <br> <!-- Line break -->
+    <figcaption>Build progress for Milestone 2</figcaption>
+  </figure>
+</div>
+
+
+## Part 1: Sprint Planning (Lab)
+
+In this unit's lab, our team planned out sprints for our project. Below are the deliverables for the sprint plan with their completion status.
+
+### Sprint Plan Deliverables Checklist
+
+- [x] GitHub Project Board created
+- [x] GitHub Milestones created
+- [x] GitHub Issues created from user features
+- [x] Issues added to project and assigned to specific team members
+
+## Part 2: Build Sprint 1
+
+For this unit's milestone, we've completed our first build sprint. Below are the deliverables for this build sprint and their current status.
+
+### Build Sprint 1 Deliverables Checklist
+
+- [x] Updated status of issues in Project board
+- [x] Sprint planned for next unit -- Issues created, assigned & added to project board
+- [x] Completed user stories checked-off in README
+- [x] Videos/GIFs for Milestone 2 created to show build progress and added to README
+
+## Required User Stories
+
+- [ ] As a user, I want to create a personal mental health profile, so that I can track my mental wellness journey and goals over time.
+- [ ] As a user, I want to receive AI-driven insights and advice based on my profile and activity, so that I can improve my mental health with personalized recommendations.
+
+## Stretch User Stories
+
+- [ ] As a user, I want to connect my health sensors and smartwatches to the app, so that I can monitor physical indicators that may impact my mental health.
+- [ ] As a user, I want to access a library of mental health exercises, articles, and tips, so that I can learn and apply new strategies to enhance my well-being.
+- [ ] As a user, I want to participate in activities that help build emotional intelligence, so that I can develop better coping mechanisms and interpersonal skills.
+- [ ] As a user, I want to be able to connect with mental health professionals and support groups, so that I have access to support when I need it.
+- [ ] As a user, I want to receive notifications for daily mental health tips, so that I can maintain a habit of mindfulness and wellness.
+- [ ] As a user, I want to have a community forum feature, so that I can share my experiences and gain support from a community of peers.
+- [ ] As a user, I want to see a dashboard of my progress, so that I can visualize my improvements and stay motivated.
 
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
