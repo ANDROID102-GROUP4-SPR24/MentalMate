@@ -294,6 +294,22 @@ Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ```
+# Milestone 1 Deliverables Checklist
+
+- [x] Creation of GitHub Organization and Group Project Repo
+- [x] Updated Course Portal group info: Group Name + App Description
+
+### `brainstorming.md`
+- [x] Initial brainstorming ideas - 6 minimum
+- [x] Evaluation of top 3 ideas
+- [x] Final app idea chosen
+
+### `readme.md` (template)
+- [x] App Overview: Description and evaluation
+- [x] App Spec: User features, screens & navigation flows
+- [x] Wireframe images
+- [x] [BONUS] Digital Wireframe/Mockup Images
+- [ ] [BONUS] Interactive Prototype video/gif
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
@@ -391,6 +407,7 @@ Below is a giphy that showcases our current build progress for Milestone 2. This
   </figure>
 </div>
 
+# Milestone 2 Deliverables Checklist
 
 ## Part 1: Sprint Planning (Lab)
 
