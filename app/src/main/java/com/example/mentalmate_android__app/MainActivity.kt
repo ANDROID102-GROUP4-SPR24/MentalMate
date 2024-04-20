@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
             lateinit var fragment:Fragment
             when(item.itemId){
                 R.id.navigation_profile -> fragment=userInputFragment
+                //add the other screens that the user can move to
             }
             fragmentManager.beginTransaction().replace(R.id.place_holder_frame,fragment).commit()
             true
