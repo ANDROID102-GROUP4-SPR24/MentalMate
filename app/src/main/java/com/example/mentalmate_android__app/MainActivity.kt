@@ -5,6 +5,9 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentManager
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,5 +19,17 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+        val fragmentManager: FragmentManager = supportFragmentManager
+        val userInputFragment: Fragment =UserProfile()
+        val bottomNavigationView: BottomNavigationView =findViewById(R.id.bottom_navigation)
+        bottomNavigationView.setOnItemSelectedListener{ item ->
+            lateinit var fragment:Fragment
+            when(item.itemId){
+                R.id.navigation_profile -> fragment=userInputFragment
+            }
+            fragmentManager.beginTransaction().replace(R.id.place_holder_frame,fragment).commit()
+            true
+        }
+        bottomNavigationView.selectedItemId= R.id.navigation_profile
     }
 }
