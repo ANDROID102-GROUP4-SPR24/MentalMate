@@ -40,15 +40,6 @@ android {
 }
 
 dependencies {
-    // Retrofit for network operations
-   // implementation(com.squareup.retrofit2:retrofit:2.9.0)
-   // implementation(com.squareup.retrofit2:converter-gson:2.9.0)
-
-    // Kotlin Coroutines for background operations
-   // implementation(org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9)
-
-    // Coroutines support for Retrofit
-   // implementation(com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2)
 
 
     // Retrofit for network operations
@@ -59,6 +50,7 @@ dependencies {
 
     // Coroutines support for Retrofit
     implementation("com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2")
+
 
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
     val room_version = "2.4.2"
