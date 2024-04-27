@@ -496,7 +496,7 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 
 <div align="center">
   <figure>
-    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pdf" width="400" alt="Build progress for Milestone 2">
+    [Preview the MentalMate Presentation](https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pdf)
      <br> <!-- Line break -->
     <figcaption>PDF Final Presentation</figcaption>
   </figure>
