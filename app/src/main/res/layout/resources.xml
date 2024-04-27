@@ -1,67 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Resources Screen -->
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Resources"
-        android:textSize="24sp"
-        android:padding="16dp"
-        android:drawableStart="@drawable/ic_resources"
-        android:drawablePadding="8dp"/>
-
-    <ListView
-        android:id="@+id/resources_list"
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:divider="@null"
-        android:dividerHeight="16dp">
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Resources"
+            android:textSize="24sp"
+            android:padding="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
 
         <!-- Mock list items -->
-        <LinearLayout
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/item1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="16dp">
+            android:padding="16dp"
+            app:layout_constraintTop_toBottomOf="@id/title">
 
             <ImageView
+                android:id="@+id/item1_icon"
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:src="@drawable/ic_article"/>
+                android:src="@android:drawable/ic_menu_info_details"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
 
             <TextView
+                android:id="@+id/item1_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Article: Managing Stress"
                 android:textSize="18sp"
-                android:layout_marginStart="16dp"/>
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:padding="16dp">
-
-            <ImageView
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:src="@drawable/ic_exercise"/>
+                android:layout_marginStart="16dp"
+                app:layout_constraintStart_toEndOf="@id/item1_icon"
+                app:layout_constraintTop_toTopOf="@id/item1_icon"/>
 
             <TextView
+                android:id="@+id/item1_description"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Learn effective techniques to manage stress and improve your well-being."
+                android:textSize="14sp"
+                android:layout_marginTop="4dp"
+                app:layout_constraintStart_toStartOf="@id/item1_title"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/item1_title"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/item2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            app:layout_constraintTop_toBottomOf="@id/item1">
+
+            <ImageView
+                android:id="@+id/item2_icon"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@android:drawable/ic_menu_compass"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/item2_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Exercise: Deep Breathing"
                 android:textSize="18sp"
-                android:layout_marginStart="16dp"/>
+                android:layout_marginStart="16dp"
+                app:layout_constraintStart_toEndOf="@id/item2_icon"
+                app:layout_constraintTop_toTopOf="@id/item2_icon"/>
 
-        </LinearLayout>
+            <TextView
+                android:id="@+id/item2_description"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Practice deep breathing exercises to reduce stress and promote relaxation."
+                android:textSize="14sp"
+                android:layout_marginTop="4dp"
+                app:layout_constraintStart_toStartOf="@id/item2_title"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/item2_title"/>
 
-    </ListView>
+        </androidx.constraintlayout.widget.ConstraintLayout>
 
-</LinearLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/item3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            app:layout_constraintTop_toBottomOf="@id/item2">
+
+            <ImageView
+                android:id="@+id/item3_icon"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@android:drawable/ic_menu_gallery"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/item3_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Guided Meditation"
+                android:textSize="18sp"
+                android:layout_marginStart="16dp"
+                app:layout_constraintStart_toEndOf="@id/item3_icon"
+                app:layout_constraintTop_toTopOf="@id/item3_icon"/>
+
+            <TextView
+                android:id="@+id/item3_description"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Follow guided meditation sessions to find inner peace and calm your mind."
+                android:textSize="14sp"
+                android:layout_marginTop="4dp"
+                app:layout_constraintStart_toStartOf="@id/item3_title"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/item3_title"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/item4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            app:layout_constraintTop_toBottomOf="@id/item3">
+
+            <ImageView
+                android:id="@+id/item4_icon"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@android:drawable/ic_menu_myplaces"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/item4_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mindfulness Tips"
+                android:textSize="18sp"
+                android:layout_marginStart="16dp"
+                app:layout_constraintStart_toEndOf="@id/item4_icon"
+                app:layout_constraintTop_toTopOf="@id/item4_icon"/>
+
+            <TextView
+                android:id="@+id/item4_description"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Discover practical tips for incorporating mindfulness into your daily life."
+                android:textSize="14sp"
+                android:layout_marginTop="4dp"
+                app:layout_constraintStart_toStartOf="@id/item4_title"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/item4_title"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

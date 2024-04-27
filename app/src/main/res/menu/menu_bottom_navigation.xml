@@ -3,19 +3,31 @@
     <item
         android:id="@+id/navigation_profile"
         android:icon="@drawable/baseline_account_circle_24"
-        android:title="@string/title_profile" />
+        android:title="Profile" />
+
     <item
         android:id="@+id/navigation_insights"
-        android:icon="@drawable/round_auto_graph_24"
-        android:title="Chatbot" />
-    <item
-        android:id="@+id/navigation_resource"
-        android:icon="@drawable/round_auto_graph_24"
-        android:title="Health Censors" />
-    <item
-        android:id="@+id/navigation_network"
-        android:icon="@drawable/round_auto_graph_24"
-        android:title="Network" />
+        android:icon="@drawable/ic_insights"
+        android:title="AI Insights" />
 
-    <!-- Add more items here -->
+    <item
+        android:id="@+id/navigation_resources"
+        android:icon="@drawable/ic_resources"
+        android:title="Resources" />
+
+    <item
+        android:id="@+id/navigation_health_sensors"
+        android:icon="@drawable/ic_health_sensor"
+        android:title="Health Sensors" />
+
+    <item
+        android:id="@+id/navigation_emotional_intelligence"
+        android:icon="@drawable/ic_emotional_intelligence"
+        android:title="Emotional Intelligence" />
+
+    <item
+        android:id="@+id/navigation_support_network"
+        android:icon="@drawable/ic_support_network"
+        android:title="Support Network" />
+
 </menu>

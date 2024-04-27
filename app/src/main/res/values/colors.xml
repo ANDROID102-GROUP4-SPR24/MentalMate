@@ -5,6 +5,30 @@
     <!-- colors.xml -->
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <!-- more color resources here -->
+
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Background colors -->
+    <color name="light_background">#F5F5F5</color>
+    <color name="dark_background">#212121</color>
+    <color name="white_background">#FFFFFF</color>
+    <color name="gray_background">#F0F0F0</color>
+    <color name="blue_background">#E3F2FD</color>
+    <color name="green_background">#E8F5E9</color>
+    <color name="red_background">#FFEBEE</color>
+    <color name="yellow_background">#FFFDE7</color>
+    <color name="purple_background">#F3E5F5</color>
+    <color name="orange_background">#FFF3E0</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Button colors -->
+    <color name="button_primary">#6200EE</color>
+    <color name="button_secondary">#03DAC5</color>
+    <color name="button_text_color">#FFFFFF</color>
+    !-- more color resources here -->
 
 </resources>
