@@ -472,7 +472,13 @@ List any pending user stories / any user stories you decided to cut from the ori
 - ...
 
 - [Add video/gif of your current application that shows build progress]
-
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/intial_demo.gif" width="900" alt="Build progress for Milestone 2">
+     <br> <!-- Line break -->
+    <figcaption>Build progress for Milestone 2</figcaption>
+  </figure>
+</div>
   ![Application Build Progress](URL_FOR_APP_BUILD_PROGRESS_VIDEO_GIF)
 
 ## App Demo Video
