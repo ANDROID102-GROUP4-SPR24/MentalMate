@@ -452,7 +452,14 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 ## GitHub Project Board
 
 - [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.]
-
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/Screenshot%202024-04-26%20at%2021.04.47.png" width="900" alt="Build progress for Milestone 2">
+     <br> <!-- Line break -->
+    <figcaption>Build progress for Milestone 2</figcaption>
+  </figure>
+</div>
   ![Updated Project Board for Milestone 3](URL_FOR_UPDATED_PROJECT_BOARD_MILESTONE_3)
 
 ## Completed User Stories
