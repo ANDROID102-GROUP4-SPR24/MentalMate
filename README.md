@@ -491,11 +491,14 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 # Milestone 4 - Presentation and Demo (Unit 10)
 
 ## Presentation
+[Download the MentalMate Presentation](https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pptx)
+
+
 <div align="center">
   <figure>
-    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pptx" width="400" alt="Build progress for Milestone 2">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pdf" width="400" alt="Build progress for Milestone 2">
      <br> <!-- Line break -->
-    <figcaption>final Presentation</figcaption>
+    <figcaption>PDF Final Presentation</figcaption>
   </figure>
 </div>
 
