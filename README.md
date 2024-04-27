@@ -433,8 +433,8 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 
 ## Required User Stories
 
-- [ ] As a user, I want to create a personal mental health profile, so that I can track my mental wellness journey and goals over time.
-- [ ] As a user, I want to receive AI-driven insights and advice based on my profile and activity, so that I can improve my mental health with personalized recommendations.
+- [x] As a user, I want to create a personal mental health profile, so that I can track my mental wellness journey and goals over time.
+- [x] As a user, I want to receive AI-driven insights and advice based on my profile and activity, so that I can improve my mental health with personalized recommendations.
 
 ## Stretch User Stories
 
