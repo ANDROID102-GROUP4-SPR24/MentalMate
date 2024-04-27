@@ -31,7 +31,7 @@
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:src="@drawable/ic_support_group"/>
+                android:src="@drawable/ic_support_network"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -72,7 +72,7 @@
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:src="@drawable/ic_helpline"/>
+                android:src="@drawable/ic_app_logo"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -100,7 +100,7 @@
                     android:textSize="14sp"
                     android:layout_marginTop="8dp"
                     android:textColor="@android:color/holo_blue_dark"
-                    android:drawableStart="@drawable/ic_phone"
+                    android:drawableStart="@drawable/ic_app_logo"
                     android:drawablePadding="4dp"/>
 
             </LinearLayout>
@@ -116,7 +116,7 @@
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:src="@drawable/ic_therapist"/>
+                android:src="@drawable/ic_app_logo"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
