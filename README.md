@@ -492,6 +492,13 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 
 ## Presentation
 
+<div align="center">
+  <figure>
+    <a href="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pdf">Click here to view the presentation</a>
+    <br> <!-- Line break -->
+  </figure>
+</div>
+
 
 <div align="center">
   <figure>
@@ -503,14 +510,6 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 
 
 
-<div align="center">
-  <figure>
-    <a href="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pdf">Click here to view the presentation</a>
-    <br> <!-- Line break -->
-  </figure>
-</div>
-
-
 ## App Demo Video
 
 <div align="center">
@@ -520,7 +519,8 @@ For this unit's milestone, we've completed our first build sprint. Below are the
     <figcaption>Demo Day Prep GIF 1</figcaption>
   </figure>
 </div>
-
+<br> <!-- Line break -->
+<br> <!-- Line break -->
 <div align="center">
   <figure>
     <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MENTALMATE_AI_GIF.gif" width="400" alt="Build progress for Milestone 3">
