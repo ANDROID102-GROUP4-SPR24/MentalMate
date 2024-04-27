@@ -464,24 +464,25 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 
 ## Completed User Stories
 
-List the completed user stories from this unit:
 
-- User Story 1: Description of the story and how it was implemented
-- User Story 2: Description of the story and how it was implemented
-- ...
+- **User Story 1:** As a user, I want to be able to log in to the app securely, so that I can access my personalized features and data. This was implemented by creating a login screen with secure authentication mechanisms.
+- **User Story 2:** As a user, I want to be able to create and update my profile with relevant information, such as my name, age, gender, mental health status, and goals, so that the app can provide personalized insights and recommendations. This was implemented by creating a user profile screen where users can enter and edit their profile details.
+- **User Story 3:** As a user, I want to receive AI-driven insights and recommendations based on my profile information and data from connected health sensors, so that I can better understand and manage my mental health and well-being. This was implemented by integrating an AI engine that analyzes user data and provides personalized insights and recommendations.
 
-### Pending or Cut User Stories
+## Pending or Cut User Stories
 
-List any pending user stories / any user stories you decided to cut from the original requirements:
+- **Pending User Story 1:** Health Sensor Integration - The functionality to connect and integrate health sensors was not completed.
+- **Pending User Story 2:** Curated Resources - The functionality to display and access curated resources was not completed.
+- **Pending User Story 3:** Emotional Intelligence Building - The functionality to provide emotional intelligence building exercises and content was not completed.
+- **Pending User Story 4:** Support Network - The functionality to access a support network within the app was not completed.
+- **Pending User Story 5:** Community Forums - The UI and functionality for community forums were not completed.
+- **Pending User Story 6:** Notifications - The UI and functionality for notifications were not completed.
 
-- Pending User Story 1: Description and reason for being pending or cut
-- Cut User Story 2: Description and reason for being pending or cut
-- ...
 
 - [Add video/gif of your current application that shows build progress]
 <div align="center">
   <figure>
-    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/intial_demo.gif" width="900" alt="Build progress for Milestone 2">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/intial_demo.gif" width="500" alt="Build progress for Milestone 2">
      <br> <!-- Line break -->
     <figcaption>Build progress for Milestone 2</figcaption>
   </figure>
