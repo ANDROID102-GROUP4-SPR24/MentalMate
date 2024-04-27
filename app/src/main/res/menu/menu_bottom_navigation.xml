@@ -7,6 +7,15 @@
     <item
         android:id="@+id/navigation_insights"
         android:icon="@drawable/round_auto_graph_24"
-        android:title="@string/title_insights" />
+        android:title="Chatbot" />
+    <item
+        android:id="@+id/navigation_resource"
+        android:icon="@drawable/round_auto_graph_24"
+        android:title="Health Censors" />
+    <item
+        android:id="@+id/navigation_network"
+        android:icon="@drawable/round_auto_graph_24"
+        android:title="Network" />
+
     <!-- Add more items here -->
 </menu>
