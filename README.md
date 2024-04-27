@@ -479,19 +479,41 @@ For this unit's milestone, we've completed our first build sprint. Below are the
 - **Pending User Story 6:** Notifications - The UI and functionality for notifications were not completed.
 
 
-- [Add video/gif of your current application that shows build progress]
 <div align="center">
   <figure>
-    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/intial_demo.gif" width="500" alt="Build progress for Milestone 2">
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/intial_demo.gif" width="400" alt="Build progress for Milestone 2">
      <br> <!-- Line break -->
     <figcaption>Build progress for Milestone 2</figcaption>
   </figure>
 </div>
-  ![Application Build Progress](URL_FOR_APP_BUILD_PROGRESS_VIDEO_GIF)
+
+
+# Milestone 4 - Presentation and Demo (Unit 10)
+
+## Presentation
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MentalMate%20FINAL.pptx" width="400" alt="Build progress for Milestone 2">
+     <br> <!-- Line break -->
+    <figcaption>final Presentation</figcaption>
+  </figure>
+</div>
 
 ## App Demo Video
 
-Embed the YouTube/Vimeo link of your Completed Demo Day prep video:
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/app/intial_demo.gif" width="400" alt="Build progress for Milestone 3">
+     <br> <!-- Line break -->
+    <figcaption>Demo Day Prep GIF 1</figcaption>
+  </figure>
+</div>
 
-[![Demo Day Prep Video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Demo Day Prep Video")
+<div align="center">
+  <figure>
+    <img src="https://github.com/ANDROID102-GROUP4-SPR24/MentalMate/blob/master/MENTALMATE_AI_GIF.gif" width="400" alt="Build progress for Milestone 3">
+     <br> <!-- Line break -->
+    <figcaption>Demo Day Prep GIF 2</figcaption>
+  </figure>
+</div>
 
