@@ -4,7 +4,7 @@
 
 <!--  **Reviewers:**    N/A-->
 
-**Authors:** Brian Bazurto, Christine Lekishon, Jocelyn Gao, Nursultan Zhumabaev
+**Authors:** Brian Bazurto, Christine Lekishon, Jocelyn Gao
 
 <!--  **Tracking Bug Link:** [Detailed Information Link Here] -->
 
