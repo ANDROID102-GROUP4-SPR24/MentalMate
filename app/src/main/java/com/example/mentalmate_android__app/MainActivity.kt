@@ -47,7 +47,8 @@ class MainActivity : AppCompatActivity() {
         // Set the layout for the MainActivity
         setContentView(R.layout.activity_login)
 
-        val buttonClick = findViewById<Button>(R.id.Signupbtn)
+
+        val buttonClick = findViewById<Button>(R.id.loginBtn)
         buttonClick.setOnClickListener {
             val intent = Intent(this, NewActivity::class.java)
             startActivity(intent)

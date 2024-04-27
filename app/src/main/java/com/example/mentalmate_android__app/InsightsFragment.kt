@@ -1,5 +1,5 @@
-package com.example.mentalmate_android__app
-
+//package com.example.mentalmate_android__app
+//
 //import android.os.Bundle
 //import androidx.fragment.app.Fragment
 //import android.view.LayoutInflater
